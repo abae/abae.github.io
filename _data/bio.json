@@ -1,4 +1,4 @@
-{
+﻿{
   "basics": {
     "name": "Andy Bae",
     "label": "M.S. Mechanical Engineering Student",
@@ -84,62 +84,41 @@
       "endDate": "Present",
       "gpa": "3.47",
       "courses": [
+        "FEM",
+        "Nonlinear FEM",
+        "Continuum Mechanics",
+        "Computational Materials Science"
       ]
+    },
+    {
+      "institution": "North Carolina State University, Raleigh, NC",
+      "area": "Physics",
+      "studyType": "B.S.",
+      "startDate": "2015-08-26",
+      "endDate": "2019-05-05",
+      "gpa": "3.43"
     }
   ],
   "work": [
     {
       "company": "NC State University",
-      "position": "Web Developer",
+      "position": "Assistant Researcher",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2016-08-10",
+      "endDate": "2019-05-01",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Designed, modeled, and simulated an experiment to measure coherent elastic neutrino-nucleus scattering (CEvNS) using high purity germanium (HPGe) radiation detectors.",
+        "Assisted in the construction of the COHERENT experiment and the MAJORANA experiment.",
+        "Analyzed and presented findings at multiple poster sessions."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "GitHub Game Off 2019 – 1st place in innovation/3rd place overall",
+      "date": "Dec 2019",
+      "awarder": "GitHub",
+      "summary": "Placed 1st in the innovation category and 3rd overall out of 236 entries in an annual month-long game making competition hosted by GitHub."
     }
   ],
   "references": [
